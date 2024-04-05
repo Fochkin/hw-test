@@ -1,6 +1,5 @@
 module github.com/Fochkin/hw-test/hw01_hello_otus
 
-go 1.22.1
+go 1.22
 
-require golang.org/x/example v0.0.0-20220412213650-2e68773dfca0
-
+require golang.org/x/example/hello v0.0.0-20240205180059-32022caedd6a
