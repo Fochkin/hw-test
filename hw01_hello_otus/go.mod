@@ -1,4 +1,4 @@
-module github.com/Fochkin/hw-test/tree/hw01_hello_otus
+module github.com/Fochkin/hw-test
 
 go 1.22.1
 
